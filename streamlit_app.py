@@ -15,8 +15,8 @@ st.info('Pós Graduando Finanças, Investimentos e Banking pela PUC-RS e Assesso
 
 icon_size = 20
 
-st_button('youtube', 'https://youtube.com/dataprofessor', 'Canal da Paola ', icon_size)
+st_button('youtube', 'https://www.youtube.com/@paolabitt', 'Canal da Paola ', icon_size)
 st_button('medium', 'https://data-professor.medium.com/', 'Read my Blogs', icon_size)
-st_button('twitter', 'https://twitter.com/thedataprof/', 'Follow me on Twitter', icon_size)
+st_button('twitter', 'https://twitter.com/apaolabitt/', 'Follow me on Twitter', icon_size)
 st_button('linkedin', 'https://linkedin.com/in/paola-bitencourt-aai-97aa35177', 'Follow me on LinkedIn', icon_size)
 st_button('newsletter', 'https://linkedin.com/in/paola-bitencourt-aai-97aa35177', 'Fale comigo!', icon_size)
