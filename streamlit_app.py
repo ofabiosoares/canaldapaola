@@ -5,6 +5,9 @@ from PIL import Image
 
 load_css()
 
+#ajustando o cabecalho
+st.write('<style>div.block-container{padding-top:0.2rem;}</style>', unsafe_allow_html=True)
+
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('logo.png'))
 
@@ -16,7 +19,8 @@ st.info('Pós Graduando Finanças, Investimentos e Banking pela PUC-RS e Assesso
 icon_size = 20
 
 st_button('youtube', 'https://www.youtube.com/@paolabitt', 'Canal da Paola ', icon_size)
-st_button('medium', 'https://data-professor.medium.com/', 'Read my Blogs', icon_size)
+st_button('aposentei', 'https://aquirende-previdencia.streamlit.app', 'Simule sua Aposentadoria', icon_size)
+#st_button('medium', 'https://www.instagram.com/', 'Lifestyle', icon_size)
 st_button('twitter', 'https://twitter.com/apaolabitt/', 'Follow me on Twitter', icon_size)
 st_button('linkedin', 'https://linkedin.com/in/paola-bitencourt-aai-97aa35177', 'Follow me on LinkedIn', icon_size)
 st_button('newsletter', 'https://linkedin.com/in/paola-bitencourt-aai-97aa35177', 'Fale comigo!', icon_size)
