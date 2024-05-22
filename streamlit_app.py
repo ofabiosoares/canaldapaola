@@ -23,4 +23,4 @@ st_button('aposentei', 'https://aquirende-previdencia.streamlit.app', 'Simule su
 #st_button('medium', 'https://www.instagram.com/', 'Lifestyle', icon_size)
 st_button('twitter', 'https://twitter.com/apaolabitt/', 'Follow me on Twitter', icon_size)
 st_button('linkedin', 'https://linkedin.com/in/paola-bitencourt-aai-97aa35177', 'Follow me on LinkedIn', icon_size)
-st_button('newsletter', 'https://linkedin.com/in/paola-bitencourt-aai-97aa35177', 'Fale comigo!', icon_size)
+st_button('newsletter', 'https://go.hotmart.com/I93272490Y', 'Adquira meu Ebook!', icon_size)
